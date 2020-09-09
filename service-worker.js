@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/YuTakaki/math-game/precache-manifest.5e94d18e64715ab45ec5e04606bea44d.js"
+  "/YuTakaki/math-game/precache-manifest.019ab6ee23d2a2d04f438d5a35c25ca2.js"
 );
 
 self.addEventListener('message', (event) => {
