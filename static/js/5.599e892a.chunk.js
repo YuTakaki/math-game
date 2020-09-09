@@ -1,0 +1,2 @@
+(this["webpackJsonpmath-game"]=this["webpackJsonpmath-game"]||[]).push([[5],{41:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n),r=a(17);t.default=function(){return c.a.createElement("div",{className:"menu"},c.a.createElement(r.b,{to:"/game"},c.a.createElement("button",null,"Start")),c.a.createElement(r.b,{to:"/scoreList"},c.a.createElement("button",null,"Highest Score")))}}}]);
+//# sourceMappingURL=5.599e892a.chunk.js.map

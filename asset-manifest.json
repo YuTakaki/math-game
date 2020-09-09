@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/YuTakaki/math-game/static/css/main.b4e82b75.chunk.css",
+    "main.js": "/YuTakaki/math-game/static/js/main.93a2ba32.chunk.js",
+    "main.js.map": "/YuTakaki/math-game/static/js/main.93a2ba32.chunk.js.map",
+    "runtime-main.js": "/YuTakaki/math-game/static/js/runtime-main.2fd71366.js",
+    "runtime-main.js.map": "/YuTakaki/math-game/static/js/runtime-main.2fd71366.js.map",
+    "static/js/2.e044ff36.chunk.js": "/YuTakaki/math-game/static/js/2.e044ff36.chunk.js",
+    "static/js/2.e044ff36.chunk.js.map": "/YuTakaki/math-game/static/js/2.e044ff36.chunk.js.map",
+    "static/js/3.fc7c1bf0.chunk.js": "/YuTakaki/math-game/static/js/3.fc7c1bf0.chunk.js",
+    "static/js/3.fc7c1bf0.chunk.js.map": "/YuTakaki/math-game/static/js/3.fc7c1bf0.chunk.js.map",
+    "static/js/4.11467a39.chunk.js": "/YuTakaki/math-game/static/js/4.11467a39.chunk.js",
+    "static/js/4.11467a39.chunk.js.map": "/YuTakaki/math-game/static/js/4.11467a39.chunk.js.map",
+    "static/js/5.599e892a.chunk.js": "/YuTakaki/math-game/static/js/5.599e892a.chunk.js",
+    "static/js/5.599e892a.chunk.js.map": "/YuTakaki/math-game/static/js/5.599e892a.chunk.js.map",
+    "static/js/6.48afb55f.chunk.js": "/YuTakaki/math-game/static/js/6.48afb55f.chunk.js",
+    "static/js/6.48afb55f.chunk.js.map": "/YuTakaki/math-game/static/js/6.48afb55f.chunk.js.map",
+    "index.html": "/YuTakaki/math-game/index.html",
+    "precache-manifest.56711a39643ede240b88db7986b5595c.js": "/YuTakaki/math-game/precache-manifest.56711a39643ede240b88db7986b5595c.js",
+    "service-worker.js": "/YuTakaki/math-game/service-worker.js",
+    "static/css/main.b4e82b75.chunk.css.map": "/YuTakaki/math-game/static/css/main.b4e82b75.chunk.css.map",
+    "static/js/2.e044ff36.chunk.js.LICENSE.txt": "/YuTakaki/math-game/static/js/2.e044ff36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd71366.js",
+    "static/js/2.e044ff36.chunk.js",
+    "static/css/main.b4e82b75.chunk.css",
+    "static/js/main.93a2ba32.chunk.js"
+  ]
+}
