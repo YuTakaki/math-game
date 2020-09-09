@@ -14,7 +14,7 @@
     "react-scripts": "3.4.1",
     "redux": "^4.0.5"
   },
-  "homepage": "https://YuTakaki.github.io/math-game",
+  "homepage": "https://github.com/YuTakaki/math-game",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
