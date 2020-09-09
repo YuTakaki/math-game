@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/YuTakaki/math-game/static/css/main.b4e82b75.chunk.css",
-    "main.js": "/YuTakaki/math-game/static/js/main.306a6275.chunk.js",
-    "main.js.map": "/YuTakaki/math-game/static/js/main.306a6275.chunk.js.map",
-    "runtime-main.js": "/YuTakaki/math-game/static/js/runtime-main.c54c9d83.js",
-    "runtime-main.js.map": "/YuTakaki/math-game/static/js/runtime-main.c54c9d83.js.map",
-    "static/js/2.fb2a4dbc.chunk.js": "/YuTakaki/math-game/static/js/2.fb2a4dbc.chunk.js",
-    "static/js/2.fb2a4dbc.chunk.js.map": "/YuTakaki/math-game/static/js/2.fb2a4dbc.chunk.js.map",
-    "static/js/3.09e70e85.chunk.js": "/YuTakaki/math-game/static/js/3.09e70e85.chunk.js",
-    "static/js/3.09e70e85.chunk.js.map": "/YuTakaki/math-game/static/js/3.09e70e85.chunk.js.map",
-    "index.html": "/YuTakaki/math-game/index.html",
-    "precache-manifest.019ab6ee23d2a2d04f438d5a35c25ca2.js": "/YuTakaki/math-game/precache-manifest.019ab6ee23d2a2d04f438d5a35c25ca2.js",
-    "service-worker.js": "/YuTakaki/math-game/service-worker.js",
-    "static/css/main.b4e82b75.chunk.css.map": "/YuTakaki/math-game/static/css/main.b4e82b75.chunk.css.map",
-    "static/js/2.fb2a4dbc.chunk.js.LICENSE.txt": "/YuTakaki/math-game/static/js/2.fb2a4dbc.chunk.js.LICENSE.txt"
+    "main.css": "/math-game/static/css/main.b4e82b75.chunk.css",
+    "main.js": "/math-game/static/js/main.776b5b2a.chunk.js",
+    "main.js.map": "/math-game/static/js/main.776b5b2a.chunk.js.map",
+    "runtime-main.js": "/math-game/static/js/runtime-main.733426a4.js",
+    "runtime-main.js.map": "/math-game/static/js/runtime-main.733426a4.js.map",
+    "static/js/2.fb2a4dbc.chunk.js": "/math-game/static/js/2.fb2a4dbc.chunk.js",
+    "static/js/2.fb2a4dbc.chunk.js.map": "/math-game/static/js/2.fb2a4dbc.chunk.js.map",
+    "static/js/3.09e70e85.chunk.js": "/math-game/static/js/3.09e70e85.chunk.js",
+    "static/js/3.09e70e85.chunk.js.map": "/math-game/static/js/3.09e70e85.chunk.js.map",
+    "index.html": "/math-game/index.html",
+    "precache-manifest.a50740ded166a219b150db86547415f0.js": "/math-game/precache-manifest.a50740ded166a219b150db86547415f0.js",
+    "service-worker.js": "/math-game/service-worker.js",
+    "static/css/main.b4e82b75.chunk.css.map": "/math-game/static/css/main.b4e82b75.chunk.css.map",
+    "static/js/2.fb2a4dbc.chunk.js.LICENSE.txt": "/math-game/static/js/2.fb2a4dbc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c54c9d83.js",
+    "static/js/runtime-main.733426a4.js",
     "static/js/2.fb2a4dbc.chunk.js",
     "static/css/main.b4e82b75.chunk.css",
-    "static/js/main.306a6275.chunk.js"
+    "static/js/main.776b5b2a.chunk.js"
   ]
 }
