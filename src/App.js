@@ -1,6 +1,6 @@
 import React, {Suspense} from 'react';
 import './styles/css/main.css';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import {HashRouter as Router, Route} from 'react-router-dom';
 
 const ScoreList = React.lazy(()=>import('./components/scoreList'));
 const Game = React.lazy(()=>import('./components/game'))
